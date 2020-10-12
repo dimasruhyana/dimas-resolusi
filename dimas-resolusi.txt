@@ -1,9 +1,8 @@
 DIMAS RESOLUSI
-- Belajar js-Lanjutan
-- PHP MVC
 - GIT DAN GITHUB
 - Composer
 - CI-4
 - Laravel
 - React js 
 - React Native
+- Vue js
