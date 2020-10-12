@@ -6,3 +6,4 @@ DIMAS RESOLUSI
 - React js 
 - React Native
 - Vue js
+- Node js
