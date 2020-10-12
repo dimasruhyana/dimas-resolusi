@@ -2,5 +2,9 @@ DIMAS RENCANA ML
 - Membuat Akun Baru
 - Push rank sampai mythic glory
 - Mengejar Supreme
+  * Ling
+  * Esmeralda
 - Mengejar Top Global
+  * Ling
+  * Roger
 - Belajar Hero Ruby
