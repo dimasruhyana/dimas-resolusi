@@ -1,5 +1,6 @@
 DIMAS RENCANA ML
 - Membuat Akun Baru
+- Push rank sampai mythic glory
 - Mengejar Supreme
 - Mengejar Top Global
 - Belajar Hero Ruby
